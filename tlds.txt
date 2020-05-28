@@ -2047,6 +2047,7 @@
 .tm.ro
 .tm.se
 .tm.za
+.tmall
 .tn
 .tn.us
 .to
